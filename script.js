@@ -183,8 +183,6 @@ function handleLogin(e) {
     const formData = new FormData(e.target);
     const username = formData.get('username');
 
-    // For demo purposes, create a simple user object
-    // In a real app, you would verify credentials from a server
     const userData = {
         name: username.charAt(0).toUpperCase() + username.slice(1), // Capitalize first letter
         email: username + '@example.com',
