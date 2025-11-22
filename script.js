@@ -28,14 +28,6 @@ const products = [
     },
     {
         id: 4,
-        name: "All-Weather Floor Mats",
-        price: 9660,
-        image: "carmat.jpg",
-        category: "Interior",
-        description: "Durable rubber mats that protect your car's interior"
-    },
-    {
-        id: 5,
         name: "Steering Wheel Cover",
         price: 4025,
         image: "71bPFuA9mBL.jpg",
@@ -43,7 +35,7 @@ const products = [
         description: "Comfortable grip and stylish design for better driving experience"
     },
     {
-        id: 6,
+        id: 5,
         name: "Car Vacuum Cleaner",
         price: 8050,
         image: "www.autozone.com_shop-and-garage-tools_vacuum-cleaner-and-components_p_armor-all-utility-vacuum-2-5-gallon_110468_0_0.png.jpg",
