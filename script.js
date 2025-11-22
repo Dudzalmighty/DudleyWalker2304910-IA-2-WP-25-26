@@ -6,7 +6,7 @@ const products = [
         id: 1,
         name: "Premium Car Seat Covers",
         price: 14489,
-        image: "/assets/71lnSCyAI9L._AC_UF894,1000_QL80_.jpg",
+        image: "71lnSCyAI9L._AC_UF894,1000_QL80_.jpg",
         category: "Interior",
         description: "High-quality leather seat covers for ultimate comfort and style"
     },
@@ -14,7 +14,7 @@ const products = [
         id: 2,
         name: "LED Headlight Kit",
         price: 20930,
-        image: "/assets/6X-White-9005-H11-LED-Headlights-High-Low-H11-H8-Fog-Light-Bulbs-Kit_ffced9b7-068f-4076-a44f-6a0732d6b420.4284acc0cb5d4270d13e49100cfef8e3.jpeg.jpg",
+        image: "6X-White-9005-H11-LED-Headlights-High-Low-H11-H8-Fog-Light-Bulbs-Kit_ffced9b7-068f-4076-a44f-6a0732d6b420.4284acc0cb5d4270d13e49100cfef8e3.jpeg.jpg",
         category: "Exterior",
         description: "9005+H11/H8+H9 LED headlights for superior visibility"
     },
@@ -22,7 +22,7 @@ const products = [
         id: 3,
         name: "Wireless Phone Charger",
         price: 6440,
-        image: "/assets/61-0co+zBCL.jpg",
+        image: "61-0co+zBCL.jpg",
         category: "Electronics",
         description: "Fast PD30W QC3.0 wireless charging for your devices"
     },
@@ -30,7 +30,7 @@ const products = [
         id: 4,
         name: "All-Weather Floor Mats",
         price: 9660,
-        image: "/assets/81stNKZdeLL.jpg",
+        image: "81stNKZdeLL.jpg",
         category: "Interior",
         description: "Durable rubber mats that protect your car's interior"
     },
@@ -38,7 +38,7 @@ const products = [
         id: 5,
         name: "Steering Wheel Cover",
         price: 4025,
-        image: "/assets/71bPFuA9mBL.jpg",
+        image: "71bPFuA9mBL.jpg",
         category: "Interior",
         description: "Comfortable grip and stylish design for better driving experience"
     },
@@ -46,7 +46,7 @@ const products = [
         id: 6,
         name: "Car Vacuum Cleaner",
         price: 8050,
-        image: "/assets/www.autozone.com_shop-and-garage-tools_vacuum-cleaner-and-components_p_armor-all-utility-vacuum-2-5-gallon_110468_0_0.png.jpg",
+        image: "www.autozone.com_shop-and-garage-tools_vacuum-cleaner-and-components_p_armor-all-utility-vacuum-2-5-gallon_110468_0_0.png.jpg",
         category: "Cleaning",
         description: "Armor All 2.5-gallon utility vacuum for spotless interiors"
     }
