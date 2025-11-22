@@ -30,7 +30,7 @@ const products = [
         id: 4,
         name: "All-Weather Floor Mats",
         price: 9660,
-        image: "HTB1KuU4b13tHKVjSZSgq6x4QFXaL.jpg_720x720q50.jpg",
+        image: "HTB1KuU4b13tHKVjSZSgq6x4QFXaL.jpg",
         category: "Interior",
         description: "Durable rubber mats that protect your car's interior"
     },
